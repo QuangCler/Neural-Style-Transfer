@@ -111,7 +111,3 @@ These are some of the resources I referred to while working on this project. You
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-## Star History <a name="star-history"></a>
-
-[![Star History Chart](https://api.star-history.com/svg?repos=nazianafis/Neural-Style-Transfer&type=Date)](https://star-history.com/#nazianafis/Neural-Style-Transfer&Date)
